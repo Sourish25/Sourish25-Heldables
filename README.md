@@ -58,6 +58,10 @@ A simple and lightweight Minecraft Forge mod that allows you to automate key pre
 
 Here’s a quick look at the main functionality of the mod:
 
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
 ```java
 @Mod("sourish25heldables")
 public class Sourish25Heldables {
@@ -104,3 +108,5 @@ public class Sourish25Heldables {
         KeyMapping.set(key, false);
     }
 }
+
+
