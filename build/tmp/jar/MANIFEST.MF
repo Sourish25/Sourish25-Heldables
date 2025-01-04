@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: sourish25heldables
+Specification-Vendor: Sourish25
+Specification-Version: 1
+Implementation-Title: forge-1.19.2-43.4.5-mdk
+Implementation-Version: 1.0.1
+Implementation-Vendor: Sourish25
+Implementation-Timestamp: 2025-01-04T13:56:22+0530
+
